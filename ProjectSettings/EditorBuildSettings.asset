@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Natalie/Scenes/IGB101 Assigment 1 Nhu-Y.unity
     guid: 105811538db784641b5d802a0a30c69a
   - enabled: 1
-    path: Assets/Connor/Assets/Scenes/Playstation.unity
+    path: Assets/Connor/Scenes/Playstation.unity
     guid: 9942100f20cb3074490b080184da074a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
